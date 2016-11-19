@@ -1,8 +1,0 @@
-C:\Users\ShreeHarsha\documents\visual studio 2015\Projects\myApriori\TextSumProblemSample\bin\Debug\TextSumProblemSample.exe
-C:\Users\ShreeHarsha\documents\visual studio 2015\Projects\myApriori\TextSumProblemSample\bin\Debug\TextSumProblemSample.pdb
-C:\Users\ShreeHarsha\documents\visual studio 2015\Projects\myApriori\TextSumProblemSample\obj\Debug\TextSumProblemSample.TextSumForm.resources
-C:\Users\ShreeHarsha\documents\visual studio 2015\Projects\myApriori\TextSumProblemSample\obj\Debug\TextSumProblemSample.Properties.Resources.resources
-C:\Users\ShreeHarsha\documents\visual studio 2015\Projects\myApriori\TextSumProblemSample\obj\Debug\TextSumProblemSample.csproj.GenerateResource.Cache
-C:\Users\ShreeHarsha\documents\visual studio 2015\Projects\myApriori\TextSumProblemSample\obj\Debug\TextSumProblemSample.exe
-C:\Users\ShreeHarsha\documents\visual studio 2015\Projects\myApriori\TextSumProblemSample\obj\Debug\TextSumProblemSample.pdb
-C:\Users\ShreeHarsha\documents\visual studio 2015\Projects\myApriori\TextSumProblemSample\obj\Debug\TextSumProblemSample.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+c:\users\shreeharsha\documents\visual studio 2015\Projects\myApriori\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+c:\users\shreeharsha\documents\visual studio 2015\Projects\myApriori\UserInterface\obj\Debug\UserInterface.Form1.resources
+c:\users\shreeharsha\documents\visual studio 2015\Projects\myApriori\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+c:\users\shreeharsha\documents\visual studio 2015\Projects\myApriori\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache

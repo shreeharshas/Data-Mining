@@ -1,0 +1,15 @@
+vhigh
+2
+small
+low
+unacc
+med
+high
+big
+4
+more
+3
+5more
+acc
+vgood
+good
